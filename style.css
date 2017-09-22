@@ -1,0 +1,31 @@
+#container{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-left: 500px;
+        
+
+}
+
+body{
+    background-image: url('images/bgsign.jpg');
+
+}
+
+
+.innerContainer{
+    color: white !important;
+    margin-bottom: 20px;
+}
+
+.card{
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+#eventPlanner{
+    color: white;
+    text-align: center;
+    background-color: #212529;
+}

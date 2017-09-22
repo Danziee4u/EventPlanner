@@ -1,0 +1,33 @@
+#allEvents{
+    margin: 0 auto;
+    width: 60%;
+
+    }
+
+  body{
+    background-image: url('images/bgsign.jpg');
+}
+    .card{
+        margin: 0 auto;
+        margin-bottom : 5px;
+        width: 60%;
+    }
+
+#heading{
+    text-align: center;
+    color: white;
+}
+    
+
+    .commentCard{
+        width: 100%;
+    }
+
+#logoutDiv{
+    width: 20%;
+    margin: 0 auto;
+}
+
+#goingBtn{
+    margin-right: 10px;
+}
